@@ -11,13 +11,8 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 # Welcome to my homepage!
 
-I am a **Ph.D candidate** in **Information Science** at the **Japan Advanced Institute of Science and Technology (JAIST)**. Use this section for a concise introduction: who you are, what you work on, and what kinds of collaboration, positions, or research directions you are open to.
+I am a Ph.D candidate in Information Science at the Japan Advanced Institute of Science and Technology (JAIST). My current research lies at **Controllable Video Generation and Robotics**. If you are interested in academic collaboration, please feel free to contact me by email.
 
-My interests lie in **your research topics here** — for example, machine learning, systems, vision, graphics, HCI, robotics, security, or computational science. Replace this paragraph with your real focus areas, and add your own Google Scholar, project, or lab links when available.
-
-Previously, you may want to summarize your background, degree history, lab affiliations, notable experience, or a short story about how your current work evolved. Keep this paragraph personal enough to feel real, but concise enough that visitors can scan it quickly.
-
-I am always open to discussions and collaborations. Feel free to drop me an email!
 
 
 <span class="anchor" id="news"></span>
@@ -177,7 +172,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 .zh-translation { font-size: 0.85em; color: #666; font-weight: normal; }
 </style>
 
-<span class="anchor" id="internships"></span>
+<!-- <span class="anchor" id="internships"></span>
 # 💼 Internships
 
 <div class="exp-card">
@@ -190,7 +185,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
     <div class="exp-org">Organization / Lab Name</div>
     <p class="exp-desc">Describe your internship or research role here. Summarize the type of work you do, the domain you contribute to, and the scope of your responsibilities.</p>
   </div>
-</div>
+</div> -->
 
 
 <span class="anchor" id="education"></span>

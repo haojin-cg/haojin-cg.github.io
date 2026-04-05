@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <span class="anchor" id="about-me"></span>
-# Welcome to my homepage!
+<!-- # Welcome to my homepage! -->
 
-Hi, I am a Ph.D candidate in Information Science at the **Japan Advanced Institute of Science and Technology (JAIST)**, advised by Prof. Haoran Xie (in Human-Centered AI Laboratory). My current research lies at **Controllable Video Generation and Robotics**. If you are interested in academic collaboration, please feel free to contact me by email.
+Hi, I am a Ph.D candidate in Information Science at the **Japan Advanced Institute of Science and Technology (JAIST)**, advised by [Prof. Haoran Xie](https://www.jaist.ac.jp/~xie/) (in [Human-Centered AI Lab](https://www.jaist.ac.jp/~xie/lab.html)). My current research interest lies at **Controllable Video Generation and Robotics**. If you are interested in academic collaboration, please feel free to contact me by email.
 
 
 
@@ -20,7 +20,7 @@ Hi, I am a Ph.D candidate in Information Science at the **Japan Advanced Institu
 
 <div class="timeline-container">
   <div class="timeline-item">
-    <div class="timeline-date">2026.03</div>
+    <div class="timeline-date">2026.02</div>
     <div class="timeline-content">Released a public version of this academic homepage template with coding-agent-friendly onboarding.</div>
   </div>
   <div class="timeline-item">

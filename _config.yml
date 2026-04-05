@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao JIN"
-description              : "Hao JIN's homepage."
+description              : # "Hao JIN's homepage."
 repository               : "haojin-cg/haojin-cg.github.io"
 url                      : "https://haojin-cg.github.io"  # e.g. https://your-username.github.io
 baseurl                  : ""  # "" for user site, "/repo-name" for project site

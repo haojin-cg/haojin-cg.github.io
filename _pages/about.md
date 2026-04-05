@@ -193,7 +193,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 # 🎓 Education
 
 <div class="exp-card">
-  <img src="{{ '/images/jaist.png' | https://www.jaist.ac.jp/english/ }}" class="exp-logo" alt="University Placeholder">
+  <img src="{{ '/images/JAIST.png' | https://www.jaist.ac.jp/english/ }}" class="exp-logo" alt="University Placeholder">
   <div class="exp-content">
     <div class="exp-header">
       <h3 class="exp-role">Ph.D. in Information Science</h3>

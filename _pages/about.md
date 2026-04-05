@@ -11,7 +11,7 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 # Welcome to my homepage!
 
-I am a Ph.D candidate in Information Science at the Japan Advanced Institute of Science and Technology (JAIST). My current research lies at **Controllable Video Generation and Robotics**. If you are interested in academic collaboration, please feel free to contact me by email.
+Hi, I am a Ph.D candidate in Information Science at the **Japan Advanced Institute of Science and Technology (JAIST)**, advised by Prof. Haoran Xie (in Human-Centered AI Laboratory). My current research lies at **Controllable Video Generation and Robotics**. If you are interested in academic collaboration, please feel free to contact me by email.
 
 
 

@@ -247,9 +247,9 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
     <p class="desc"><strong>TL;DR:</strong> Add one sentence that explains the core idea, result, or contribution of the paper.</p>
     <div class="links">
       <a href="#">[Paper]</a>
-      <a href="#">[Code]</a>
-      <a href="#">[Project Page]</a>
-      <a href="#">[Dataset]</a>
+      <!-- <a href="#">[Code]</a> -->
+      <!-- <a href="#">[Project Page]</a> -->
+      <!-- <a href="#">[Dataset]</a> -->
     </div>
   </div>
 </div>

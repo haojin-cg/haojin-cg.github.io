@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Your Name"
+title                    : "Hao JIN"
 description              : "A minimal academic homepage template built with Jekyll and GitHub Pages."
-repository               : "your-username/your-username.github.io"
-url                      : ""  # e.g. https://your-username.github.io
+repository               : "haojin-cg/haojin-cg.github.io"
+url                      : "https://haojin-cg.github.io"  # e.g. https://your-username.github.io
 baseurl                  : ""  # "" for user site, "/repo-name" for project site
 
 # google analytics
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hao JIN (金昊)"
   name_zh          :
-  avatar           : "images/avatar-placeholder.svg"
+  avatar           : "images/me.png"
   bio              : "Write a short professional bio here."
   location         : "City, Country"
   employer         :

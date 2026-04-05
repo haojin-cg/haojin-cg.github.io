@@ -32,12 +32,12 @@ Hi, I am a Ph.D candidate in Information Science at the **Japan Advanced Institu
     <div class="timeline-content">Our paper accepted by IEEE International Conference on Robotics and Automation(ICRA) 2026.</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">2025.01</div>
-    <div class="timeline-content">Added reusable publication cards, hover interactions, and a collapsible selected-projects section.</div>
+    <div class="timeline-date">2025.09</div>
+    <div class="timeline-content">Our paper accepted by The Association for Computer‑Aided Architectural Design Research in Asia (CAADRIA) 2025.</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">2024.5</div>
-    <div class="timeline-content">Our recent work in RA-L will be presented as an oral talk at ICRA 2024..</div>
+    <div class="timeline-date">2024.06</div>
+    <div class="timeline-content">Our recent work in RA-L is transfered to IEEE International Conference on Robotics and Automation (ICRA) 2024.</div>
   </div>
 
 
@@ -196,10 +196,10 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
   <img src="{{ '/images/building-icon.svg' | relative_url }}" class="exp-logo" alt="University Placeholder">
   <div class="exp-content">
     <div class="exp-header">
-      <h3 class="exp-role">Ph.D. / M.S. in Your Field</h3>
+      <h3 class="exp-role">Ph.D. / M.S. in Information Science</h3>
       <span class="exp-time">2024.09 - Present</span>
     </div>
-    <div class="exp-org">University Name</div>
+    <div class="exp-org">Japan Advanced Institute of Science and Technology (JAIST) </div>
     <p class="exp-desc">Add one sentence on your current program, advisor, lab, or primary research direction.</p>
   </div>
 </div>
@@ -208,10 +208,22 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
   <img src="{{ '/images/building-icon.svg' | relative_url }}" class="exp-logo" alt="University Placeholder">
   <div class="exp-content">
     <div class="exp-header">
-      <h3 class="exp-role">B.S. / B.Eng. in Your Field</h3>
-      <span class="exp-time">2020.09 - 2024.06</span>
+      <h3 class="exp-role">M.S. in Computer Science</h3>
+      <span class="exp-time">2024.09 - Present</span>
     </div>
-    <div class="exp-org">University Name</div>
+    <div class="exp-org">Northwest A&F University</div>
+    <p class="exp-desc">Add one sentence on your current program, advisor, lab, or primary research direction.</p>
+  </div>
+</div>
+
+<div class="exp-card">
+  <img src="{{ '/images/building-icon.svg' | relative_url }}" class="exp-logo" alt="University Placeholder">
+  <div class="exp-content">
+    <div class="exp-header">
+      <h3 class="exp-role">B.S. in Mechanical Engineering</h3>
+      <span class="exp-time">2015.09 - 2019.06</span>
+    </div>
+    <div class="exp-org">Northwest A&F University</div>
     <p class="exp-desc">Optionally include GPA, ranking, graduation honors, thesis title, or one short note that helps visitors understand your background.</p>
   </div>
 </div>

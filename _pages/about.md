@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <span class="anchor" id="about-me"></span>
-# 👋 Welcome to my homepage!
+# Welcome to my homepage!
 
-I am a **researcher / student / engineer** building a **coding agent friendly academic homepage**. Use this section for a concise introduction: who you are, what you work on, and what kinds of collaboration, positions, or research directions you are open to.
+I am a **Ph.D candidate** in **Information Science** at the **Japan Advanced Institute of Science and Technology (JAIST)**. Use this section for a concise introduction: who you are, what you work on, and what kinds of collaboration, positions, or research directions you are open to.
 
 My interests lie in **your research topics here** — for example, machine learning, systems, vision, graphics, HCI, robotics, security, or computational science. Replace this paragraph with your real focus areas, and add your own Google Scholar, project, or lab links when available.
 

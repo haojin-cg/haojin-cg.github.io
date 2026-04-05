@@ -11,7 +11,7 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 <!-- # Welcome to my homepage! -->
 
-Hi, I am a Ph.D candidate in Information Science at the **Japan Advanced Institute of Science and Technology (JAIST)**, advised by [Prof. Haoran Xie](https://www.jaist.ac.jp/~xie/) (in [Human-Centered AI Lab](https://www.jaist.ac.jp/~xie/lab.html)). My current research interest lies at **Controllable Video Generation and Robotics**. If you are interested in academic collaboration, please feel free to contact me by email.
+Hi, I am a Ph.D candidate in Information Science at the **Japan Advanced Institute of Science and Technology ([JAIST](https://www.jaist.ac.jp/english/))**, advised by [Prof. Haoran Xie](https://www.jaist.ac.jp/~xie/) (in [Human-Centered AI Lab](https://www.jaist.ac.jp/~xie/lab.html)). My current research interest lies at **Controllable Video Generation and Robotics**. If you are interested in academic collaboration, please feel free to contact me by email.
 
 
 
@@ -32,18 +32,15 @@ Hi, I am a Ph.D candidate in Information Science at the **Japan Advanced Institu
     <div class="timeline-content">Our paper accepted by IEEE International Conference on Robotics and Automation(ICRA) 2026.</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">2026.01</div>
+    <div class="timeline-date">2025.01</div>
     <div class="timeline-content">Added reusable publication cards, hover interactions, and a collapsible selected-projects section.</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">2025.12</div>
-    <div class="timeline-content">Prepared placeholder content for interns, students, faculty, and research engineers to adapt quickly.</div>
+    <div class="timeline-date">2024.5</div>
+    <div class="timeline-content">Our recent work in RA-L will be presented as an oral talk at ICRA 2024..</div>
   </div>
 
-  <div class="timeline-item" style="margin-top: 16px;">
-    <div class="timeline-date">2025.11</div>
-    <div class="timeline-content">Set up GitHub Pages and an optional Google Scholar citation workflow for future customization.</div>
-  </div>
+
   <!-- <details class="timeline-details">
     <summary class="timeline-summary">
       <span class="summary-text">Show more history ▾</span>

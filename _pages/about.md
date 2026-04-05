@@ -193,11 +193,11 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 # 🎓 Education
 
 <div class="exp-card">
-  <img src="{{ '/images/JAIST.png' | relative_url }}" class="exp-logo" alt="University Placeholder">
+  <img src="{{ '/images/jaist.png' | https://www.jaist.ac.jp/english/ }}" class="exp-logo" alt="University Placeholder">
   <div class="exp-content">
     <div class="exp-header">
       <h3 class="exp-role">Ph.D. in Information Science</h3>
-      <span class="exp-time">2024.09 - Present</span>
+      <span class="exp-time">2023.10 - Present</span>
     </div>
     <div class="exp-org">Japan Advanced Institute of Science and Technology (JAIST) </div>
     <p class="exp-desc">Add one sentence on your current program, advisor, lab, or primary research direction.</p>
@@ -205,11 +205,11 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 </div>
 
 <div class="exp-card">
-  <img src="{{ '/images/building-icon.svg' | relative_url }}" class="exp-logo" alt="University Placeholder">
+  <img src="{{ '/images/nwafu.png' | https://en.nwsuaf.edu.cn/ }}" class="exp-logo" alt="University Placeholder">
   <div class="exp-content">
     <div class="exp-header">
       <h3 class="exp-role">M.S. in Computer Science</h3>
-      <span class="exp-time">2024.09 - Present</span>
+      <span class="exp-time">2020.09 - 2023.07</span>
     </div>
     <div class="exp-org">Northwest A&F University</div>
     <p class="exp-desc">Add one sentence on your current program, advisor, lab, or primary research direction.</p>
@@ -217,11 +217,11 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 </div>
 
 <div class="exp-card">
-  <img src="{{ '/images/building-icon.svg' | relative_url }}" class="exp-logo" alt="University Placeholder">
+  <img src="{{ '/images/nwafu.png' | https://en.nwsuaf.edu.cn/ }}" class="exp-logo" alt="University Placeholder">
   <div class="exp-content">
     <div class="exp-header">
       <h3 class="exp-role">B.S. in Mechanical Engineering</h3>
-      <span class="exp-time">2015.09 - 2019.06</span>
+      <span class="exp-time">2015.09 - 2019.07</span>
     </div>
     <div class="exp-org">Northwest A&F University</div>
     <p class="exp-desc">Optionally include GPA, ranking, graduation honors, thesis title, or one short note that helps visitors understand your background.</p>

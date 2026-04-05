@@ -241,9 +241,9 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
     <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
-    <a href="#" class="title">Sample Publication Title One</a>
-    <div class="authors">Author A, Author B, <strong>Your Name</strong>, Author D†</div>
-    <div class="venue"><em><strong>Conference / Journal Name</strong>, 2026</em></div>
+    <a href="#" class="title">Sketch-guided Stylized Landscape Cinemagraph Synthesis</a>
+    <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Xiaoxuan Xie, Zhengyang Wang, Xusheng Du, Shaojun Hu, Haoran Xie†</div>
+    <div class="venue"><em><strong>Computers & Graphics</strong>, 2026</em></div>
     <p class="desc"><strong>TL;DR:</strong> Add one sentence that explains the core idea, result, or contribution of the paper.</p>
     <div class="links">
       <a href="#">[Paper]</a>

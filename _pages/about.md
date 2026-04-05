@@ -193,10 +193,10 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 # 🎓 Education
 
 <div class="exp-card">
-  <img src="{{ '/images/building-icon.svg' | relative_url }}" class="exp-logo" alt="University Placeholder">
+  <img src="{{ '/images/JAIST.png' | relative_url }}" class="exp-logo" alt="University Placeholder">
   <div class="exp-content">
     <div class="exp-header">
-      <h3 class="exp-role">Ph.D. / M.S. in Information Science</h3>
+      <h3 class="exp-role">Ph.D. in Information Science</h3>
       <span class="exp-time">2024.09 - Present</span>
     </div>
     <div class="exp-org">Japan Advanced Institute of Science and Technology (JAIST) </div>

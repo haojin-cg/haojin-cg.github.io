@@ -19,13 +19,17 @@ Hi, I am a Ph.D candidate in Information Science at the **Japan Advanced Institu
 # 📰 News
 
 <div class="timeline-container">
-  <div class="timeline-item">
-    <div class="timeline-date">2026.02</div>
-    <div class="timeline-content">Released a public version of this academic homepage template with coding-agent-friendly onboarding.</div>
+<div class="timeline-item">
+    <div class="timeline-date">2026.04</div>
+    <div class="timeline-content">Our paper accepted by Computer & Graphic Journal.</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">2026.02</div>
-    <div class="timeline-content">Refined the homepage structure to support publications, projects, honors, services, and CV maintenance.</div>
+    <div class="timeline-date">2026.03</div>
+    <div class="timeline-content">Our paper accepted by Frontiers of Architectural Research Journal.</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2026.01</div>
+    <div class="timeline-content">Our paper accepted by IEEE International Conference on Robotics and Automation(ICRA) 2026.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026.01</div>

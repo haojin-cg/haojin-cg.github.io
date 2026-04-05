@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao JIN"
-description              : "A minimal academic homepage template built with Jekyll and GitHub Pages."
+description              : "Hao JIN's homepage."
 repository               : "haojin-cg/haojin-cg.github.io"
 url                      : "https://haojin-cg.github.io"  # e.g. https://your-username.github.io
 baseurl                  : ""  # "" for user site, "/repo-name" for project site
@@ -25,13 +25,13 @@ author:
   name             : "Hao JIN (金昊)"
   name_zh          :
   avatar           : "images/me.png"
-  bio              : "Write a short professional bio here."
-  location         : "City, Country"
-  employer         :
+  bio              : "Focusing on controllable video generation and robotics."
+  location         : "Nomi, Japan"
+  employer         : "JAIST"
   pubmed           : 
   googlescholar    :
   cv               : # "CV/CV.pdf"
-  email            : "you@example.com"
+  email            : "haojin@jaist.ac.jp"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -40,7 +40,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "your-github-username"
+  github           : # "your-github-username"
   google_plus      :
   keybase          :
   instagram        :

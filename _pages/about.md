@@ -256,18 +256,18 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class='badge'>Under Review</div>
-    <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Publication Placeholder">
+    <!-- <div class='badge'>Under Review</div> -->
+    <img src="{{ '/images/asc25.png' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
-    <a href="#" class="title">Sample Publication Title Four</a>
-    <div class="authors">Author A, Author B, <strong>Your Name*</strong>, Author D†</div>
-    <div class="venue"><em><strong>Under Review</strong></em></div>
-    <p class="desc"><strong>TL;DR:</strong> This slot works well for a recent submission, preprint, or work-in-progress project.</p>
+    <a href="https://arxiv.org/abs/2503.03090" class="title">From Architectural Sketch to Conceptual Representation: Using Structure-aware Diffusion Model to Generate Renderings of School Buildings</a>
+    <div class="authors">Zhengyang Wang, <strong>Hao Jin</strong>, Xusheng Du, Yuxiao Ren, Ye Zhang, Haoran Xie†</div>
+    <div class="venue"><em><strong>The Association for Computer‑Aided Architectural Design Research in Asia (CAADRIA) 2025</strong></em></div>
+    <!-- <p class="desc"><strong>TL;DR:</strong> This slot works well for a recent submission, preprint, or work-in-progress project.</p> -->
     <div class="links">
-      <a href="#">[Paper]</a>
-      <a href="#">[Code]</a>
-      <a href="#">[Project Page]</a>
+      <a href="https://arxiv.org/abs/2503.03090">[Paper]</a>
+      <!-- <a href="#">[Code]</a>
+      <a href="#">[Project Page]</a> -->
     </div>
   </div>
 </div>

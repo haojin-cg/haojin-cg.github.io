@@ -238,7 +238,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 <div class='paper-box'>
   <div class='paper-box-image'>
     <!-- <div class='badge'>Workshop / arXiv</div> -->
-    <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Publication Placeholder">
+    <img src="{{ '/images/srt26.jpg' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
     <a href="#" class="title">Simulation-Ready Tree: High-Quality Dynamic Tree Reconstruction from a Single RGB-D Sensor</a>

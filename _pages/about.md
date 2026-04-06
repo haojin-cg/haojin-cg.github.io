@@ -294,95 +294,9 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
   </div>
 </div>
 
-<span class="anchor" id="projects"></span>
-# 💻 Projects
-
-<details class="projects-section">
-  <summary>📂 Click to expand selected projects</summary>
-
-  <div class='paper-box' style="margin-top: 10px;">
-    <div class='paper-box-image'>
-      <div class='badge'>Systems</div>
-      <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Project Placeholder">
-    </div>
-    <div class='paper-box-text'>
-      <a href="#" class="title">Selected Project One</a>
-      <div class="authors"><strong>Your Name (Lead / Owner)</strong>, Collaborator A, Collaborator B</div>
-      <div class="venue"><em>Tags: Systems, Infrastructure, Engineering</em></div>
-      <p class="desc">Use this expandable area for selected projects that deserve more space than the main publication list. Keep title, teammates, tags, and one compact summary.</p>
-      <div class="links">
-        <a href="#">[Code]</a>
-      </div>
-    </div>
-  </div>
-
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <div class='badge'>ML</div>
-      <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Project Placeholder">
-    </div>
-    <div class='paper-box-text'>
-      <a href="#" class="title">Selected Project Two</a>
-      <div class="authors"><strong>Your Name</strong>, Collaborator A, Collaborator B, Collaborator C</div>
-      <div class="venue"><em>Tags: Machine Learning, Vision, Data</em></div>
-      <p class="desc">This slot works well for project pages, systems prototypes, open-source work, demos, or large course projects.</p>
-      <div class="links">
-        <a href="#">[Code]</a>
-        <a href="#">[Project Page]</a>
-      </div>
-    </div>
-  </div>
-
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <div class='badge'>Creative</div>
-      <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Project Placeholder">
-    </div>
-    <div class='paper-box-text'>
-      <a href="#" class="title">Selected Project Three</a>
-      <div class="authors"><strong>Your Name</strong>, Collaborator A, et al.</div>
-      <div class="venue"><em>Tags: Visualization, Design, Interactive Media</em></div>
-      <p class="desc">You can also use this pattern for interdisciplinary, creative, or community-facing projects with richer descriptions.</p>
-      <div class="links">
-        <a href="#">[Project Page]</a>
-        <a href="#">[News]</a>
-      </div>
-    </div>
-  </div>
-
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <div class='badge'>Game / Demo</div>
-      <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Project Placeholder">
-    </div>
-    <div class='paper-box-text'>
-      <a href="#" class="title">Selected Project Four</a>
-      <div class="authors"><strong>Your Name</strong>, Collaborator A, Collaborator B</div>
-      <div class="venue"><em>Tags: Python, Demo, Product Prototype</em></div>
-      <p class="desc">This final slot can hold a side project, interactive demo, engineering showcase, or anything that benefits from the collapsible project gallery.</p>
-      <div class="links">
-        <a href="#">[Code]</a>
-      </div>
-    </div>
-  </div>
-</details>
 
 
-<span class="anchor" id="honors-awards"></span>
-# 🏆 Honors and Awards
-
-- *2025.06*, <span class="highlight-honor">Outstanding Graduate</span> <span class="zh-translation">（replace with your honor）</span> & **Outstanding Thesis Award** <span class="zh-translation">（optional translation）</span>, University Name.
-- *2024.09*, Fellowship / Scholarship Name, University Name.
-- *2023.09*, <span class="highlight-award">Major National / Regional Award</span> <span class="zh-translation">（optional translation）</span>, Awarding Organization.
-- *2023.08*, Competition Prize or Engineering Award, Event Name.
-- *2023.11*, Creative / Exhibition / Demo Award, Event Name.
-- *2023.09*, Media / Video / Design Award, Institution Name.
-- *2023.06*, Mathematical Modeling / Hackathon / Research Competition Award.
 
 
-<span class="anchor" id="services"></span>
-# 💬 Services
 
-- *2024.09 - 2025.01*, Teaching Assistant, Course Name, University Name.
-- *2024.03 - 2024.06*, Reviewer / Organizer / Mentor, Program or Workshop Name.
-- *2023.09 - 2024.01*, Volunteer Service / Reading Group / Lab Support, Organization Name.
+

@@ -201,6 +201,24 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 <div class='paper-box'>
   <div class='paper-box-image'>
     <!-- <div class='badge'>Conference 2026</div> -->
+    <img src="{{ '/images/far26.png' | relative_url }}" alt="Publication Placeholder">
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://www.sciencedirect.com/science/article/pii/S2095263526000452" class="title">Controllable Fluid Motion Synthesis with Video Diffusion Model</a>
+    <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Zhengyang Wang, Shaojun Hu, Haoran Xie†</div>
+    <div class="venue"><em><strong>Under review</strong></em></div>
+    <!-- <p class="desc"><strong>TL;DR:</strong> Use this card for another representative paper or preprint you want to highlight.</p> -->
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S2095263526000452">[Paper]</a>
+      <!-- <a href="#">[Code]</a>
+      <a href="#">[Project Page]</a> -->
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <!-- <div class='badge'>Conference 2026</div> -->
     <img src="{{ '/images/sketch2cinemagraph.png' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
@@ -216,6 +234,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
     </div>
   </div>
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>

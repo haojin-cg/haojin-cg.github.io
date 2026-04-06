@@ -241,9 +241,9 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
     <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
-    <a href="#" class="title">Sample Publication Title Three</a>
-    <div class="authors">Author A*, Author B*, <strong>Your Name</strong>, Author D†</div>
-    <div class="venue"><em><strong>Workshop / arXiv</strong>, 2025</em></div>
+    <a href="#" class="title">Simulation-Ready Tree: High-Quality Dynamic Tree Reconstruction from a Single RGB-D Sensor</a>
+    <div class="authors"><strong>Hao Jin*</strong>, Mingxin Jiao*, Haoran Xie, Shaojun Hu†</div>
+    <div class="venue"><em><strong>International Conference on Robotics and Automation(ICRA)</strong>, 2026</em></div>
     <p class="desc"><strong>TL;DR:</strong> Add a compact summary sentence that is easy to scan from the homepage.</p>
     <div class="links">
       <a href="#">[Paper]</a>

@@ -207,7 +207,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
     <a href="#" class="title">Sketch-guided Stylized Landscape Cinemagraph Synthesis</a>
     <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Xiaoxuan Xie, Zhengyang Wang, Xusheng Du, Shaojun Hu, Haoran Xie†</div>
     <div class="venue"><em><strong>Computers & Graphics</strong>, 2026</em></div>
-    <p class="desc"><strong>TL;DR:</strong> Add one sentence that explains the core idea, result, or contribution of the paper.</p>
+    <!-- <p class="desc"><strong>TL;DR:</strong> Add one sentence that explains the core idea, result, or contribution of the paper.</p> -->
     <div class="links">
       <a href="https://www.sciencedirect.com/science/article/pii/S009784932600018X">[Paper]</a>
       <!-- <a href="#">[Code]</a> -->

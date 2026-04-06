@@ -11,9 +11,11 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 <!-- # Welcome to my homepage! -->
 
-Hi, I am a Ph.D candidate in Information Science at the **Japan Advanced Institute of Science and Technology ([JAIST](https://www.jaist.ac.jp/english/))**, advised by [Prof. Haoran Xie](https://www.jaist.ac.jp/~xie/) (in [Human-Centered AI Lab](https://www.jaist.ac.jp/~xie/lab.html)). I received my M.S. degree in Computer Science (advised by [Prof. Shaojun Hu](https://cie.nwsuaf.edu.cn/szdw/fjs/2010110086/index.htm)) and my B.S. degree in Mechanical Engineering from [Northwest A&F University](https://en.nwsuaf.edu.cn/). My current research interest lies at **Controllable Video Generation and Robotics**. If you are interested in academic collaboration, please feel free to contact me by email.
+Hi, I am a Ph.D candidate in Information Science at the **Japan Advanced Institute of Science and Technology ([JAIST](https://www.jaist.ac.jp/english/))**, advised by [Prof. Haoran Xie](https://www.jaist.ac.jp/~xie/) (in [Human-Centered AI Lab](https://www.jaist.ac.jp/~xie/lab.html)). I received my M.S. degree in Computer Science (advised by [Prof. Shaojun Hu](https://cie.nwsuaf.edu.cn/szdw/fjs/2010110086/index.htm)) and my B.S. degree in Mechanical Engineering from [Northwest A&F University](https://en.nwsuaf.edu.cn/). My current research interest lies at **Controllable Video Generation and Robotics**. 
 
+My research lies at the intersection of artificial intelligence, computer graphics, and robotics. I am particularly interested in building controllable, expressive, and physically grounded visual generation systems that integrate generative modeling, structural understanding, and embodied interaction. My long-term goal is to develop computational methods for creating dynamic visual content across both digital and real-world settings.
 
+If you are interested in academic collaboration, please feel free to contact me by email.
 
 <span class="anchor" id="news"></span>
 # 📰 News
@@ -206,7 +208,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
   <div class='paper-box-text'>
     <a href="#" class="title">Controllable Fluid Motion Synthesis with Video Diffusion Model</a>
     <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Zhengyang Wang, Shaojun Hu, Haoran Xie†</div>
-    <div class="venue"><em><strong>Under review</strong></em></div>
+    <div class="venue"><em><strong>Under Review</strong></em></div>
     <!-- <p class="desc"><strong>TL;DR:</strong> Use this card for another representative paper or preprint you want to highlight.</p> -->
     <div class="links">
       <a href="#">[Paper]</a>

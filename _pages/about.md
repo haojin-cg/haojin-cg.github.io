@@ -11,7 +11,7 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 <!-- # Welcome to my homepage! -->
 
-Hi, I am a Ph.D candidate in Information Science at the **Japan Advanced Institute of Science and Technology ([JAIST](https://www.jaist.ac.jp/english/))**, advised by [Prof. Haoran Xie](https://www.jaist.ac.jp/~xie/) (in [Human-Centered AI Lab](https://www.jaist.ac.jp/~xie/lab.html)). I received my M.S. degree in Computer Science (advised by [Prof. Shaojun Hu](https://cie.nwsuaf.edu.cn/szdw/fjs/2010110086/index.htm)) and my B.S. degree in Mechanical Engineering from Northwest A&F University. My current research interest lies at **Controllable Video Generation and Robotics**. If you are interested in academic collaboration, please feel free to contact me by email.
+Hi, I am a Ph.D candidate in Information Science at the **Japan Advanced Institute of Science and Technology ([JAIST](https://www.jaist.ac.jp/english/))**, advised by [Prof. Haoran Xie](https://www.jaist.ac.jp/~xie/) (in [Human-Centered AI Lab](https://www.jaist.ac.jp/~xie/lab.html)). I received my M.S. degree in Computer Science (advised by [Prof. Shaojun Hu](https://cie.nwsuaf.edu.cn/szdw/fjs/2010110086/index.htm)) and my B.S. degree in Mechanical Engineering from [Northwest A&F University](https://en.nwsuaf.edu.cn/). My current research interest lies at **Controllable Video Generation and Robotics**. If you are interested in academic collaboration, please feel free to contact me by email.
 
 
 
@@ -204,7 +204,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
     <img src="{{ '/images/sketch2cinemagraph.png' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
-    <a href="#" class="title">Sketch-guided Stylized Landscape Cinemagraph Synthesis</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S009784932600018X" class="title">Sketch-guided Stylized Landscape Cinemagraph Synthesis</a>
     <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Xiaoxuan Xie, Zhengyang Wang, Xusheng Du, Shaojun Hu, Haoran Xie†</div>
     <div class="venue"><em><strong>Computers & Graphics</strong>, 2026</em></div>
     <!-- <p class="desc"><strong>TL;DR:</strong> Add one sentence that explains the core idea, result, or contribution of the paper.</p> -->
@@ -219,18 +219,18 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class='badge'>Conference 2026</div>
-    <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Publication Placeholder">
+    <!-- <div class='badge'>Conference 2026</div> -->
+    <img src="{{ '/images/far26.jpg' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
-    <a href="#" class="title">Sample Publication Title Two</a>
-    <div class="authors">Author A, Author B, <strong>Your Name</strong>, Author D†</div>
-    <div class="venue"><em><strong>Conference / Journal Name</strong>, 2026</em></div>
-    <p class="desc"><strong>TL;DR:</strong> Use this card for another representative paper or preprint you want to highlight.</p>
+    <a href="https://www.sciencedirect.com/science/article/pii/S2095263526000452" class="title">Controllable generation of building representations: Aligning campus building design intent with multi-stage retrieval-augmented diffusion models</a>
+    <div class="authors">Zhengyang Wang*, Yuxiao Ren*, <strong>Hao Jin</strong>, Jieli Feng, Xusheng Du, Ye Zhang†, Haoran Xie†</div>
+    <div class="venue"><em><strong>Frontiers of Architectural Research</strong>, 2026</em></div>
+    <!-- <p class="desc"><strong>TL;DR:</strong> Use this card for another representative paper or preprint you want to highlight.</p> -->
     <div class="links">
-      <a href="#">[Paper]</a>
-      <a href="#">[Code]</a>
-      <a href="#">[Project Page]</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S2095263526000452">[Paper]</a>
+      <!-- <a href="#">[Code]</a>
+      <a href="#">[Project Page]</a> -->
     </div>
   </div>
 </div>

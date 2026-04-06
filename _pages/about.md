@@ -237,19 +237,19 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class='badge'>Workshop / arXiv</div>
+    <!-- <div class='badge'>Workshop / arXiv</div> -->
     <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
     <a href="#" class="title">Simulation-Ready Tree: High-Quality Dynamic Tree Reconstruction from a Single RGB-D Sensor</a>
     <div class="authors"><strong>Hao Jin*</strong>, Mingxin Jiao*, Haoran Xie, Shaojun Hu†</div>
     <div class="venue"><em><strong>International Conference on Robotics and Automation(ICRA)</strong>, 2026</em></div>
-    <p class="desc"><strong>TL;DR:</strong> Add a compact summary sentence that is easy to scan from the homepage.</p>
+    <!-- <p class="desc"><strong>TL;DR:</strong> Add a compact summary sentence that is easy to scan from the homepage.</p> -->
     <div class="links">
       <a href="#">[Paper]</a>
       <a href="#">[Code]</a>
-      <a href="#">[Project Page]</a>
-      <a href="#">[Demo]</a>
+      <!-- <a href="#">[Project Page]</a>
+      <a href="#">[Demo]</a> -->
     </div>
   </div>
 </div>

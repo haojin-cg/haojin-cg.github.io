@@ -203,7 +203,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 <div class='paper-box'>
   <div class='paper-box-image'>
     <!-- <div class='badge'>Conference 2026</div> -->
-    <img src="{{ '/images/sketchfluid_2.png' | relative_url }}" alt="Publication Placeholder">
+    <img src="{{ '/images/sketchfluid.png' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
     <a href="#" class="title">Controllable Fluid Motion Synthesis with Video Diffusion Model</a>
@@ -211,7 +211,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
     <div class="venue"><em><strong>Under Review</strong></em></div>
     <!-- <p class="desc"><strong>TL;DR:</strong> Use this card for another representative paper or preprint you want to highlight.</p> -->
     <div class="links">
-      <a href="#">[Paper]</a>
+      <!-- <a href="#">[Paper]</a> -->
       <!-- <a href="#">[Code]</a>
       <a href="#">[Project Page]</a> -->
     </div>
@@ -221,7 +221,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 <div class='paper-box'>
   <div class='paper-box-image'>
     <!-- <div class='badge'>Conference 2026</div> -->
-    <img src="{{ '/images/sketch2cinemagraph_1.png' | relative_url }}" alt="Publication Placeholder">
+    <img src="{{ '/images/sketch2cinemagraph.png' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
     <a href="https://www.sciencedirect.com/science/article/pii/S009784932600018X" class="title">Sketch-guided Stylized Landscape Cinemagraph Synthesis</a>

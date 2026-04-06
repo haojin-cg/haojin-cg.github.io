@@ -201,7 +201,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 <div class='paper-box'>
   <div class='paper-box-image'>
     <!-- <div class='badge'>Conference 2026</div> -->
-    <img src="{{ '/images/far26.png' | relative_url }}" alt="Publication Placeholder">
+    <img src="{{ '/images/sketchfluid.png' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
     <a href="https://www.sciencedirect.com/science/article/pii/S2095263526000452" class="title">Controllable Fluid Motion Synthesis with Video Diffusion Model</a>

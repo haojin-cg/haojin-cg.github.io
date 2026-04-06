@@ -200,7 +200,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
       <span class="exp-time">2023.10 - Present</span>
     </div>
     <div class="exp-org">Japan Advanced Institute of Science and Technology (JAIST) </div>
-    <p class="exp-desc">Add one sentence on your current program, advisor, lab, or primary research direction.</p>
+    <!-- <p class="exp-desc">Add one sentence on your current program, advisor, lab, or primary research direction.</p> -->
   </div>
 </div>
 
@@ -212,7 +212,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
       <span class="exp-time">2020.09 - 2023.07</span>
     </div>
     <div class="exp-org">Northwest A&F University</div>
-    <p class="exp-desc">Add one sentence on your current program, advisor, lab, or primary research direction.</p>
+    <!-- <p class="exp-desc">Add one sentence on your current program, advisor, lab, or primary research direction.</p> -->
   </div>
 </div>
 
@@ -224,7 +224,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
       <span class="exp-time">2015.09 - 2019.07</span>
     </div>
     <div class="exp-org">Northwest A&F University</div>
-    <p class="exp-desc">Optionally include GPA, ranking, graduation honors, thesis title, or one short note that helps visitors understand your background.</p>
+    <!-- <p class="exp-desc">Optionally include GPA, ranking, graduation honors, thesis title, or one short note that helps visitors understand your background.</p> -->
   </div>
 </div>
 
@@ -246,7 +246,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
     <div class="venue"><em><strong>Computers & Graphics</strong>, 2026</em></div>
     <p class="desc"><strong>TL;DR:</strong> Add one sentence that explains the core idea, result, or contribution of the paper.</p>
     <div class="links">
-      <a href="#">[Paper]</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S009784932600018X">[Paper]</a>
       <!-- <a href="#">[Code]</a> -->
       <!-- <a href="#">[Project Page]</a> -->
       <!-- <a href="#">[Dataset]</a> -->

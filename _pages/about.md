@@ -238,7 +238,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>Conference 2026</div>
-    <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Publication Placeholder">
+    <img src="{{ '/images/sketch2cinemagraph.png' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
     <a href="#" class="title">Sketch-guided Stylized Landscape Cinemagraph Synthesis</a>

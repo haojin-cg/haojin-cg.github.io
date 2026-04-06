@@ -274,22 +274,22 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class='badge'>Conference 2025</div>
-    <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Publication Placeholder">
+    <!-- <div class='badge'>Conference 2025</div> -->
+    <img src="{{ '/images/oriental23.png' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
-    <a href="#" class="title">Sample Publication Title Five</a>
-    <div class="authors">Author A*, Author B*, <strong>Your Name*</strong>, Author D†</div>
+    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238803" class="title">A Semi-Automatic Oriental Ink Painting Framework for Robotic Drawing From 3D Models</a>
+    <div class="authors"><strong>Hao Jin</strong>, Minghui Lian, Shicheng Qiu, Xuxu Han, Xizhi Zhao, Long Yang, Zhiyi Zhang, Haoran Xie, Kouichi Konno, Shaojun Hu†</div>
     <div class="venue">
-      <em><strong>Proceedings of Conference Name</strong>, 2025 (Poster)</em><br>
-      <strong style="color: #b31b1b;">🏆 Optional Highlighted Award or Distinction</strong>
+      <em><strong> IEEE Robotics and Automation Letters</strong>, 2023</em><br>
+      <!-- <strong style="color: #b31b1b;">🏆 Optional Highlighted Award or Distinction</strong> -->
     </div>
-    <p class="desc"><strong>TL;DR:</strong> Keep the most visible publication cards concise and easy to edit after forking.</p>
+    <p class="desc">Oral in IEEE International Conference on Robotics and Automation(ICRA) 2024.</p>
     <div class="links">
-      <a href="#">[Paper]</a>
-      <a href="#">[Code]</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238803">[Paper]</a>
+      <!-- <a href="#">[Code]</a>
       <a href="#">[Project Page]</a>
-      <a href="#">[Demo]</a>
+      <a href="#">[Demo]</a> -->
     </div>
   </div>
 </div>

@@ -244,7 +244,7 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
     <img src="{{ '/images/far26.png' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
-    <a href="https://www.sciencedirect.com/science/article/pii/S2095263526000452" class="title">Controllable generation of building representations: Aligning campus building design intent with multi-stage retrieval-augmented diffusion models</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S2095263526000452" class="title">Controllable Generation of Building Representations: Aligning Campus Building Design Intent with Multi-stage Retrieval-augmented Diffusion Models</a>
     <div class="authors">Zhengyang Wang*, Yuxiao Ren*, <strong>Hao Jin</strong>, Jieli Feng, Xusheng Du, Ye Zhang†, Haoran Xie†</div>
     <div class="venue"><em><strong>Frontiers of Architectural Research</strong>, 2026</em></div>
     <!-- <p class="desc"><strong>TL;DR:</strong> Use this card for another representative paper or preprint you want to highlight.</p> -->
@@ -265,10 +265,10 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
     <a href="#" class="title">Simulation-Ready Tree: High-Quality Dynamic Tree Reconstruction from a Single RGB-D Sensor</a>
     <div class="authors"><strong>Hao Jin*</strong>, Mingxin Jiao*, Haoran Xie, Shaojun Hu†</div>
     <div class="venue"><em><strong>International Conference on Robotics and Automation(ICRA)</strong>, 2026</em></div>
-    <!-- <p class="desc"><strong>TL;DR:</strong> Add a compact summary sentence that is easy to scan from the homepage.</p> -->
+    <p class="desc"> Accepted in Jan., 2026.</p>
     <div class="links">
       <a href="#">[Paper]</a>
-      <a href="#">[Code]</a>
+      <a href="https://github.com/treeAnimate/Simulation-Ready-Tree/tree/main/">[Code]</a>
       <!-- <a href="#">[Project Page]</a>
       <a href="#">[Demo]</a> -->
     </div>

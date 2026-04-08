@@ -320,4 +320,3 @@ details.projects-section[open] summary { margin-bottom: 20px; border-bottom-left
 
 
 
-

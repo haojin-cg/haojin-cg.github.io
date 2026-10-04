@@ -94,11 +94,13 @@
   img {
     max-width: 175px;
     min-width: 75px;
-    border-radius: 50%;
+    border-radius: 22px;
+    box-shadow: 0 12px 30px rgba(15, 23, 42, 0.12);
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 4px;
+      border: 1px solid #dbeafe;
+      background: #fff;
     }
   }
 }
@@ -266,5 +268,21 @@
   }
   @include breakpoint($large) {
     display: none;
+  }
+}
+
+@include breakpoint($large) {
+  .profile_box {
+    padding: 0.75em;
+    border-radius: 18px;
+  }
+
+  .author__name {
+    color: #0f172a;
+    letter-spacing: -0.02em;
+  }
+
+  .author__bio {
+    color: #64748b;
   }
 }

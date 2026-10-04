@@ -12,7 +12,7 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.name_zh %}<p class="author__name-zh">{{ author.name_zh }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    {% if author.email %}<p class="author__email-mobile"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</p>{% endif %}
+    {% if author.email %}<p class="author__email-mobile"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email | replace: '[AT]', '[AT]<wbr>' }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -31,7 +31,7 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
       {% if author.email %}
-        <li class="author__email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</li>
+        <li class="author__email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email | replace: '[AT]', '[AT]<wbr>' }}</li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>

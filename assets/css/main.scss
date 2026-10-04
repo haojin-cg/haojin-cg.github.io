@@ -112,7 +112,7 @@
 
 .paper-box {
   display: grid;
-  grid-template-columns: minmax(210px, 32%) 1fr;
+  grid-template-columns: minmax(180px, 27%) 1fr;
   gap: 1.4em;
   align-items: center;
   margin-bottom: 1.35em;
@@ -136,8 +136,10 @@
   overflow: hidden;
   width: 100%;
   aspect-ratio: 16 / 10;
+  border: 1px solid rgba(148, 163, 184, 0.22);
   border-radius: 11px;
   background: #f1f5f9;
+  box-shadow: 0 9px 22px rgba(15, 23, 42, 0.14);
 
   img,
   video {
@@ -242,6 +244,8 @@
   }
 
   .paper-box-image {
+    width: min(88%, 360px);
+    margin: 0 auto;
     aspect-ratio: 16 / 9;
   }
 }

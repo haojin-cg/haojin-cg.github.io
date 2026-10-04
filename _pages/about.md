@@ -12,9 +12,7 @@ redirect_from:
 
 <section class="intro-panel" markdown="1">
 
-<p class="intro-kicker">Computer Graphics · Embodied Intelligence</p>
-
-I am an Assistant Professor at the **Japan Advanced Institute of Science and Technology ([JAIST](https://www.jaist.ac.jp/english/))**. I received my Ph.D. in Information Science from JAIST, where I was advised by [Prof. Haoran Xie](https://www.jaist.ac.jp/~xie/) in the [Human-Centered AI Lab](https://www.jaist.ac.jp/~xie/lab.html). Before that, I earned my M.S. in Computer Science under the supervision of [Prof. Shaojun Hu](https://cie.nwsuaf.edu.cn/szdw/fjs/2010110086/index.htm) and my B.S. in Mechanical Engineering from [Northwest A&F University](https://en.nwsuaf.edu.cn/).
+Hi! I am an Assistant Professor at the **Japan Advanced Institute of Science and Technology ([JAIST](https://www.jaist.ac.jp/english/))**. I received my Ph.D. in Information Science from JAIST, where I was advised by [Prof. Haoran Xie](https://www.jaist.ac.jp/~xie/) in the [Human-Centered AI Lab](https://www.jaist.ac.jp/~xie/lab.html). Before that, I earned my M.S. in Computer Science under the supervision of [Prof. Shaojun Hu](https://cie.nwsuaf.edu.cn/szdw/fjs/2010110086/index.htm) and my B.S. in Mechanical Engineering from [Northwest A&F University](https://en.nwsuaf.edu.cn/).
 
 My research focuses on **computer graphics and embodied intelligence**. I am particularly interested in developing generative and interactive systems that combine visual understanding, physical reasoning, and user control to create expressive, realistic, and physically grounded experiences. My long-term goal is to build intelligent systems that can perceive, generate, and interact with dynamic visual worlds, bridging virtual content creation and real-world embodied applications.
 
@@ -77,7 +75,7 @@ I am always open to research collaborations and discussions. Please feel free to
 <span class="anchor" id="publications"></span>
 # 📝 Publications
 <p style="font-size: 0.9em; color: #666; margin-top: -10px; margin-bottom: 20px;">
-  (* Equal Contribution, † Corresponding Author)
+  († Equal Contribution, * Corresponding Author)
 </p>
 
 <div class='paper-box'>
@@ -87,7 +85,7 @@ I am always open to research collaborations and discussions. Please feel free to
   </div>
   <div class='paper-box-text'>
     <a href="#" class="title">Controllable Fluid Motion Synthesis with Video Diffusion Model</a>
-    <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Zhengyang Wang, Shaojun Hu, Haoran Xie†</div>
+    <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Zhengyang Wang, Shaojun Hu, Haoran Xie*</div>
     <div class="venue"><em><strong>Under Review</strong></em></div>
     <!-- <p class="desc"><strong>TL;DR:</strong> Use this card for another representative paper or preprint you want to highlight.</p> -->
     <div class="links">
@@ -105,7 +103,7 @@ I am always open to research collaborations and discussions. Please feel free to
   </div>
   <div class='paper-box-text'>
     <a href="https://www.sciencedirect.com/science/article/pii/S009784932600018X" class="title">Sketch-guided Stylized Landscape Cinemagraph Synthesis</a>
-    <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Xiaoxuan Xie, Zhengyang Wang, Xusheng Du, Shaojun Hu, Haoran Xie†</div>
+    <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Xiaoxuan Xie, Zhengyang Wang, Xusheng Du, Shaojun Hu, Haoran Xie*</div>
     <div class="venue"><em><strong>Computers & Graphics</strong>, 2026</em></div>
     <!-- <p class="desc"><strong>TL;DR:</strong> Add one sentence that explains the core idea, result, or contribution of the paper.</p> -->
     <div class="links">
@@ -125,7 +123,7 @@ I am always open to research collaborations and discussions. Please feel free to
   </div>
   <div class='paper-box-text'>
     <a href="https://www.sciencedirect.com/science/article/pii/S2095263526000452" class="title">Controllable Generation of Building Representations: Aligning Campus Building Design Intent with Multi-stage Retrieval-augmented Diffusion Models</a>
-    <div class="authors">Zhengyang Wang*, Yuxiao Ren*, <strong>Hao Jin</strong>, Jieli Feng, Xusheng Du, Ye Zhang†, Haoran Xie†</div>
+    <div class="authors">Zhengyang Wang†, Yuxiao Ren†, <strong>Hao Jin</strong>, Jieli Feng, Xusheng Du, Ye Zhang*, Haoran Xie*</div>
     <div class="venue"><em><strong>Frontiers of Architectural Research</strong>, 2026</em></div>
     <!-- <p class="desc"><strong>TL;DR:</strong> Use this card for another representative paper or preprint you want to highlight.</p> -->
     <div class="links">
@@ -143,7 +141,7 @@ I am always open to research collaborations and discussions. Please feel free to
   </div>
   <div class='paper-box-text'>
     <a href="#" class="title">Simulation-Ready Tree: High-Quality Dynamic Tree Reconstruction from a Single RGB-D Sensor</a>
-    <div class="authors"><strong>Hao Jin*</strong>, Mingxin Jiao*, Haoran Xie, Shaojun Hu†</div>
+    <div class="authors"><strong>Hao Jin†</strong>, Mingxin Jiao†, Haoran Xie, Shaojun Hu*</div>
     <div class="venue"><em><strong>International Conference on Robotics and Automation(ICRA)</strong>, 2026</em></div>
     <p class="desc"> Accepted in Jan., 2026.</p>
     <div class="links">
@@ -162,7 +160,7 @@ I am always open to research collaborations and discussions. Please feel free to
   </div>
   <div class='paper-box-text'>
     <a href="https://arxiv.org/abs/2503.03090" class="title">From Architectural Sketch to Conceptual Representation: Using Structure-aware Diffusion Model to Generate Renderings of School Buildings</a>
-    <div class="authors">Zhengyang Wang, <strong>Hao Jin</strong>, Xusheng Du, Yuxiao Ren, Ye Zhang, Haoran Xie†</div>
+    <div class="authors">Zhengyang Wang, <strong>Hao Jin</strong>, Xusheng Du, Yuxiao Ren, Ye Zhang, Haoran Xie*</div>
     <div class="venue"><em><strong>The Association for Computer‑Aided Architectural Design Research in Asia (CAADRIA) 2025</strong></em></div>
     <!-- <p class="desc"><strong>TL;DR:</strong> This slot works well for a recent submission, preprint, or work-in-progress project.</p> -->
     <div class="links">
@@ -180,7 +178,7 @@ I am always open to research collaborations and discussions. Please feel free to
   </div>
   <div class='paper-box-text'>
     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238803" class="title">A Semi-Automatic Oriental Ink Painting Framework for Robotic Drawing From 3D Models</a>
-    <div class="authors"><strong>Hao Jin</strong>, Minghui Lian, Shicheng Qiu, Xuxu Han, Xizhi Zhao, Long Yang, Zhiyi Zhang, Haoran Xie, Kouichi Konno, Shaojun Hu†</div>
+    <div class="authors"><strong>Hao Jin</strong>, Minghui Lian, Shicheng Qiu, Xuxu Han, Xizhi Zhao, Long Yang, Zhiyi Zhang, Haoran Xie, Kouichi Konno, Shaojun Hu*</div>
     <div class="venue">
       <em><strong> IEEE Robotics and Automation Letters</strong>, 2023</em><br>
       <!-- <strong style="color: #b31b1b;">🏆 Optional Highlighted Award or Distinction</strong> -->

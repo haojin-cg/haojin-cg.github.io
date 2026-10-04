@@ -5,7 +5,7 @@
 .masthead {
   position: sticky;
   top: 0;
-  background-color: rgba(241, 245, 249, 0.9);
+  background-color: rgba(248, 250, 252, 0.92);
   -webkit-backdrop-filter: blur(12px);
           backdrop-filter: blur(12px);
   border-bottom: 1px solid $border-color;
@@ -21,6 +21,7 @@
     @include clearfix;
     padding: .65em 1em;
     font-family: $sans-serif-narrow;
+    background: transparent !important;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -37,12 +38,14 @@
 }
 
 .masthead__menu {
+  background: transparent !important;
 
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
+    background: transparent !important;
   }
 }
 

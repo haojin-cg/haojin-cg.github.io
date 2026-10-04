@@ -271,6 +271,25 @@
   }
 }
 
+.author__email-mobile {
+  margin: 0.45em 0 0;
+  color: #64748b;
+  font-size: 0.78em !important;
+  overflow-wrap: anywhere;
+
+  @include breakpoint($large) {
+    display: none;
+  }
+}
+
+.author__email {
+  color: #64748b;
+  font-size: 0.78em !important;
+  line-height: 1.45;
+  white-space: normal !important;
+  overflow-wrap: anywhere;
+}
+
 @include breakpoint($large) {
   .profile_box {
     padding: 0.75em;

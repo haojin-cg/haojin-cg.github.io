@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: transparent;
+  background: transparent !important;
 
   a {
     display: block;
@@ -203,6 +203,7 @@
 
   .visible-links {
     display: table;
+    background: transparent !important;
 
     li {
       display: table-cell;

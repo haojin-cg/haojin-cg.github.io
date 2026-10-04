@@ -5,8 +5,11 @@
 .masthead {
   position: sticky;
   top: 0;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.94);
+  -webkit-backdrop-filter: blur(12px);
+          backdrop-filter: blur(12px);
   border-bottom: 1px solid $border-color;
+  box-shadow: 0 1px 12px rgba(15, 23, 42, 0.04);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -16,7 +19,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: .5em;
+    padding: .65em 1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {

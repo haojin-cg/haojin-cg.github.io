@@ -89,7 +89,7 @@ I am always open to research collaborations and discussions. Please feel free to
 <div class='paper-box'>
   <div class='paper-box-image'>
     <!-- <div class='badge'>Conference 2026</div> -->
-    <img src="{{ '/images/sketchfluid.png' | relative_url }}" alt="Publication Placeholder">
+    <img src="{{ '/images/sketchfluid.jpg' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
     <a href="#" class="title">Controllable Fluid Motion Synthesis with Video Diffusion Model</a>

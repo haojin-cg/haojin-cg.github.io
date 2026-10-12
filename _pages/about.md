@@ -12,7 +12,7 @@ redirect_from:
 
 <section class="intro-panel" markdown="1">
 
-Hi! I am an Assistant Professor at the **Japan Advanced Institute of Science and Technology ([JAIST](https://www.jaist.ac.jp/english/))**. I received my Ph.D. in Information Science from JAIST, where I was advised by [Prof. Haoran Xie](https://www.jaist.ac.jp/~xie/) in the [Human-Centered AI Lab](https://www.jaist.ac.jp/~xie/lab.html). Before that, I earned my M.S. in Computer Science under the supervision of [Prof. Shaojun Hu](https://cie.nwsuaf.edu.cn/szdw/fjs/2010110086/index.htm) and my B.S. in Mechanical Engineering from [Northwest A&F University](https://en.nwsuaf.edu.cn/).
+Hi! I am an Assistant Professor in the School of Knowledge Science at the **Japan Advanced Institute of Science and Technology ([JAIST](https://www.jaist.ac.jp/english/))**. I received my Ph.D. in Information Science from JAIST, where I was advised by [Prof. Haoran Xie](https://www.jaist.ac.jp/~xie/) in the [Human-Centered AI Lab](https://www.jaist.ac.jp/~xie/lab.html). Before that, I earned my M.S. in Computer Science under the supervision of [Prof. Shaojun Hu](https://cie.nwsuaf.edu.cn/szdw/fjs/2010110086/index.htm) and my B.S. in Mechanical Engineering from [Northwest A&F University](https://en.nwsuaf.edu.cn/).
 
 My research focuses on **computer graphics and embodied intelligence**. I am particularly interested in developing generative and interactive systems that combine visual understanding, physical reasoning, and user control to create expressive, realistic, and physically grounded experiences. My long-term goal is to build intelligent systems that can perceive, generate, and interact with dynamic visual worlds, bridging virtual content creation and real-world embodied applications.
 

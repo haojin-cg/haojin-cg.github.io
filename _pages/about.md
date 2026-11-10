@@ -26,7 +26,7 @@ I am always open to research collaborations and discussions. Please feel free to
 <div class="timeline-container">
   <div class="timeline-item">
     <div class="timeline-date">2026.11</div>
-    <div class="timeline-content">Our paper accepted by Computational Visual Media (CVMJ).</div>
+    <div class="timeline-content">Our paper accepted by Computational Visual Media Journal (CVMJ).</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026.10</div>
@@ -98,7 +98,7 @@ I am always open to research collaborations and discussions. Please feel free to
   <div class='paper-box-text'>
     <a href="#" class="title">Controllable Fluid Motion Synthesis with Video Diffusion Model</a>
     <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Zhengyang Wang, Shaojun Hu, Haoran Xie*</div>
-    <div class="venue"><em><strong>Computational Visual Media (CVMJ)</strong>, 2026</em></div>
+    <div class="venue"><em><strong>Computational Visual Media Journal (CVMJ)</strong>, 2026</em></div>
     <!-- <p class="desc"><strong>TL;DR:</strong> Use this card for another representative paper or preprint you want to highlight.</p> -->
     <div class="links">
       <!-- <a href="#">[Paper]</a> -->

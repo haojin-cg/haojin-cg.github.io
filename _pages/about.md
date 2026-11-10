@@ -26,7 +26,7 @@ I am always open to research collaborations and discussions. Please feel free to
 <div class="timeline-container">
   <div class="timeline-item">
     <div class="timeline-date">2026.11</div>
-    <div class="timeline-content">Our paper "Controllable Fluid Motion Synthesis with Video Diffusion Model" was accepted for publication in Computational Visual Media (CVMJ).</div>
+    <div class="timeline-content">Our paper accepted by Computational Visual Media (CVMJ).</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026.10</div>

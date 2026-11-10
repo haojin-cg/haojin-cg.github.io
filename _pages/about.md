@@ -46,7 +46,7 @@ I am always open to research collaborations and discussions. Please feel free to
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026.01</div>
-    <div class="timeline-content">Our paper accepted by IEEE International Conference on Robotics and Automation(ICRA) 2026.</div>
+    <div class="timeline-content">Our paper accepted by IEEE International Conference on Robotics and Automation (ICRA) 2026.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2025.09</div>
@@ -92,7 +92,7 @@ I am always open to research collaborations and discussions. Please feel free to
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <!-- <div class='badge'>Conference 2026</div> -->
+    <div class='paper-rank paper-rank--ccf'>CCF-B</div>
     <img src="{{ '/images/sketchfluid.jpg' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
@@ -110,7 +110,7 @@ I am always open to research collaborations and discussions. Please feel free to
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <!-- <div class='badge'>Conference 2026</div> -->
+    <div class='paper-rank paper-rank--ccf'>CCF-C</div>
     <img src="{{ '/images/sketch2cinemagraph.jpg' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
@@ -130,7 +130,7 @@ I am always open to research collaborations and discussions. Please feel free to
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <!-- <div class='badge'>Conference 2026</div> -->
+    <div class='paper-rank paper-rank--jcr'>JCR Q1</div>
     <img src="{{ '/images/far26.png' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
@@ -148,7 +148,7 @@ I am always open to research collaborations and discussions. Please feel free to
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <!-- <div class='badge'>Workshop / arXiv</div> -->
+    <div class='paper-rank paper-rank--ccf'>CCF-B</div>
     <img src="{{ '/images/srt26.png' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
@@ -167,7 +167,6 @@ I am always open to research collaborations and discussions. Please feel free to
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <!-- <div class='badge'>Under Review</div> -->
     <img src="{{ '/images/asc25.png' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>
@@ -185,7 +184,7 @@ I am always open to research collaborations and discussions. Please feel free to
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <!-- <div class='badge'>Conference 2025</div> -->
+    <div class='paper-rank paper-rank--jcr'>JCR Q1</div>
     <img src="{{ '/images/oriental23.png' | relative_url }}" alt="Publication Placeholder">
   </div>
   <div class='paper-box-text'>

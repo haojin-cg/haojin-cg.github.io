@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hao JIN (金昊)"
+  name             : "Hao JIN"
   name_zh          :
   avatar           : "images/me.png"
   bio              : "Focusing on computer graphics and embodied intelligence."

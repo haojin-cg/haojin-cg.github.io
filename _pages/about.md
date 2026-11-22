@@ -16,11 +16,11 @@ redirect_from:
       <p class="profile-card__role">Assistant Professor</p>
       <p class="profile-card__affiliation">School of Knowledge Science, Japan Advanced Institute of Science and Technology (JAIST)</p>
 
-      <p>Hi! I am an Assistant Professor in the School of Knowledge Science at the <a href="https://www.jaist.ac.jp/english/"><strong>Japan Advanced Institute of Science and Technology (JAIST)</strong></a>. I received my Ph.D. in Information Science from JAIST, where I was advised by <a href="https://www.jaist.ac.jp/~xie/">Prof. Haoran Xie</a> in the <a href="https://www.jaist.ac.jp/~xie/lab.html">Human-Centered AI Lab</a>.</p>
+      <p>Hi! I am an Assistant Professor in the School of Knowledge Science at the <a href="https://www.jaist.ac.jp/english/"><strong>Japan Advanced Institute of Science and Technology (JAIST)</strong></a>. I received my Ph.D. in Information Science from JAIST, where I was advised by <a href="https://www.jaist.ac.jp/~xie/">Prof. Haoran Xie</a> in the <a href="https://www.jaist.ac.jp/~xie/lab.html">Human-Centered AI Lab</a>. Before that, I earned my M.S. in Computer Science under the supervision of <a href="https://cie.nwsuaf.edu.cn/szdw/fjs/2010110086/index.htm">Prof. Shaojun Hu</a> and my B.S. in Mechanical Engineering from <a href="https://en.nwsuaf.edu.cn/">Northwest A&amp;F University</a>.</p>
 
-      <p>My research focuses on <strong>Computer Graphics and Embodied Intelligence</strong>. I develop generative and interactive systems that combine visual understanding, physical reasoning, and user control to create expressive and physically grounded experiences.</p>
+      <p>My research focuses on <strong>Computer Graphics and Embodied Intelligence</strong>. I am particularly interested in developing generative and interactive systems that combine visual understanding, physical reasoning, and user control to create expressive, realistic, and physically grounded experiences. My long-term goal is to build intelligent systems that can perceive, generate, and interact with dynamic visual worlds, bridging virtual content creation and real-world embodied applications.</p>
 
-      <p>I am always open to research collaborations and discussions. Please feel free to reach out.</p>
+      <p>I am always open to research collaborations and discussions. Please feel free to contact me by email.</p>
     </div>
 
     <div class="profile-card__photo">
@@ -32,49 +32,6 @@ redirect_from:
     <span class="profile-contact"><i class="fas fa-envelope" aria-hidden="true"></i>{{ site.author.email | replace: '[AT]', '[AT]<wbr>' }}</span>
     <span class="profile-contact"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Nomi, Japan</span>
     <a class="profile-contact" href="https://www.jaist.ac.jp/english/"><i class="fas fa-university" aria-hidden="true"></i>JAIST</a>
-  </div>
-</section>
-
-<section class="career-card" aria-label="Education and experience">
-  <div class="career-column">
-    <h2>Education</h2>
-
-    <div class="career-item">
-      <div class="career-item__heading">
-        <strong>Japan Advanced Institute of Science and Technology</strong>
-        <time>Sept. 2026</time>
-      </div>
-      <p>Ph.D. in Information Science</p>
-      <p class="career-item__meta">Supervised by Prof. Haoran Xie</p>
-    </div>
-
-    <div class="career-item">
-      <div class="career-item__heading">
-        <strong>Northwest A&amp;F University</strong>
-      </div>
-      <p>M.S. in Computer Science</p>
-      <p class="career-item__meta">Supervised by Prof. Shaojun Hu</p>
-    </div>
-
-    <div class="career-item">
-      <div class="career-item__heading">
-        <strong>Northwest A&amp;F University</strong>
-      </div>
-      <p>B.S. in Mechanical Engineering</p>
-    </div>
-  </div>
-
-  <div class="career-column">
-    <h2>Experience</h2>
-
-    <div class="career-item">
-      <div class="career-item__heading">
-        <strong>Japan Advanced Institute of Science and Technology</strong>
-        <time>Oct. 2026 &ndash; Present</time>
-      </div>
-      <p>Assistant Professor, School of Knowledge Science</p>
-      <p class="career-item__meta">Computer Graphics and Embodied Intelligence</p>
-    </div>
   </div>
 </section>
 

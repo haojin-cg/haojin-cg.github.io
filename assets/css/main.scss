@@ -186,7 +186,7 @@
 
 .profile-card__main {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 180px;
+  grid-template-columns: minmax(0, 1fr) 160px;
   gap: 3rem;
   align-items: center;
   padding: 2.75rem 3rem 2rem;
@@ -233,8 +233,8 @@
 
   img {
     display: block;
-    width: 180px;
-    height: 200px;
+    width: 160px;
+    height: 178px;
     padding: 4px;
     object-fit: cover;
     border: 1px solid #d8dde2;
@@ -512,8 +512,8 @@
     justify-self: start;
 
     img {
-      width: 150px;
-      height: 166px;
+      width: 140px;
+      height: 156px;
     }
   }
 

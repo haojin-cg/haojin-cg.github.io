@@ -121,11 +121,11 @@ redirect_from:
       <img src="{{ '/images/srt26.png' | relative_url }}" alt="Simulation-Ready Tree preview">
     </div>
     <div class="paper-box-text">
-      <span class="title">Simulation-Ready Tree: High-Quality Dynamic Tree Reconstruction from a Single RGB-D Sensor</span>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=11697473" class="title">Simulation-Ready Tree: High-Quality Dynamic Tree Reconstruction from a Single RGB-D Sensor</a>
       <div class="authors"><strong>Hao Jin†</strong>, Mingxin Jiao†, Haoran Xie, Shaojun Hu*</div>
       <div class="venue"><em><strong>IEEE International Conference on Robotics and Automation (ICRA)</strong>, 2026</em></div>
       <p class="desc">Accepted in January 2026.</p>
-      <div class="links"><a href="https://github.com/treeAnimate/Simulation-Ready-Tree/tree/main/">[Code]</a></div>
+      <div class="links"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=11697473">[Paper]</a><a href="https://github.com/treeAnimate/Simulation-Ready-Tree/tree/main/">[Code]</a></div>
     </div>
   </div>
 

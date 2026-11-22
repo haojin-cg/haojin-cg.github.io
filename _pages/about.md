@@ -2,210 +2,199 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
+layout_style: academic
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<span class="anchor" id="about-me"></span>
+<section id="about-me" class="profile-card">
+  <div class="profile-card__main">
+    <div class="profile-card__copy">
+      <h1>Hao JIN</h1>
+      <p class="profile-card__role">Assistant Professor</p>
+      <p class="profile-card__affiliation">School of Knowledge Science, Japan Advanced Institute of Science and Technology (JAIST)</p>
 
-<section class="intro-panel" markdown="1">
+      <p>Hi! I am an Assistant Professor in the School of Knowledge Science at the <a href="https://www.jaist.ac.jp/english/"><strong>Japan Advanced Institute of Science and Technology (JAIST)</strong></a>. I received my Ph.D. in Information Science from JAIST, where I was advised by <a href="https://www.jaist.ac.jp/~xie/">Prof. Haoran Xie</a> in the <a href="https://www.jaist.ac.jp/~xie/lab.html">Human-Centered AI Lab</a>.</p>
 
-Hi! I am an Assistant Professor in the School of Knowledge Science at the **Japan Advanced Institute of Science and Technology ([JAIST](https://www.jaist.ac.jp/english/))**. I received my Ph.D. in Information Science from JAIST, where I was advised by [Prof. Haoran Xie](https://www.jaist.ac.jp/~xie/) in the [Human-Centered AI Lab](https://www.jaist.ac.jp/~xie/lab.html). Before that, I earned my M.S. in Computer Science under the supervision of [Prof. Shaojun Hu](https://cie.nwsuaf.edu.cn/szdw/fjs/2010110086/index.htm) and my B.S. in Mechanical Engineering from [Northwest A&F University](https://en.nwsuaf.edu.cn/).
+      <p>My research focuses on <strong>Computer Graphics and Embodied Intelligence</strong>. I develop generative and interactive systems that combine visual understanding, physical reasoning, and user control to create expressive and physically grounded experiences.</p>
 
-My research focuses on **Computer Graphics and Embodied Intelligence**. I am particularly interested in developing generative and interactive systems that combine visual understanding, physical reasoning, and user control to create expressive, realistic, and physically grounded experiences. My long-term goal is to build intelligent systems that can perceive, generate, and interact with dynamic visual worlds, bridging virtual content creation and real-world embodied applications.
+      <p>I am always open to research collaborations and discussions. Please feel free to reach out.</p>
+    </div>
 
-I am always open to research collaborations and discussions. Please feel free to contact me by email.
+    <div class="profile-card__photo">
+      <img src="{{ '/images/me.png' | relative_url }}" alt="Portrait of Hao Jin">
+    </div>
+  </div>
 
+  <div class="profile-card__contacts" aria-label="Contact information">
+    <span class="profile-contact"><i class="fas fa-envelope" aria-hidden="true"></i>{{ site.author.email | replace: '[AT]', '[AT]<wbr>' }}</span>
+    <span class="profile-contact"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Nomi, Japan</span>
+    <a class="profile-contact" href="https://www.jaist.ac.jp/english/"><i class="fas fa-university" aria-hidden="true"></i>JAIST</a>
+  </div>
 </section>
 
-<span class="anchor" id="news"></span>
-# 📰 News
+<section class="career-card" aria-label="Education and experience">
+  <div class="career-column">
+    <h2>Education</h2>
 
-<div class="timeline-container">
-  <div class="timeline-item">
-    <div class="timeline-date">2026.11</div>
-    <div class="timeline-content">Our paper accepted by Computational Visual Media Journal (CVMJ).</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2026.10</div>
-    <div class="timeline-content">Appointed as an Assistant Professor at JAIST.</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2026.09</div>
-    <div class="timeline-content">Received my Ph.D. degree and was honored as an Outstanding Graduate.</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2026.04</div>
-    <div class="timeline-content">Our paper accepted by Computer & Graphic Journal.</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2026.03</div>
-    <div class="timeline-content">Our paper accepted by Frontiers of Architectural Research Journal.</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2026.01</div>
-    <div class="timeline-content">Our paper accepted by IEEE International Conference on Robotics and Automation (ICRA) 2026.</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2025.09</div>
-    <div class="timeline-content">Our paper accepted by The Association for Computer‑Aided Architectural Design Research in Asia (CAADRIA) 2025.</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2024.06</div>
-    <div class="timeline-content">Our recent work in RA-L is transfered to IEEE International Conference on Robotics and Automation (ICRA) 2024.</div>
-  </div>
-
-
-  <!-- <details class="timeline-details">
-    <summary class="timeline-summary">
-      <span class="summary-text">Show more history ▾</span>
-    </summary>
-  </details> -->
-</div>
-
-<!-- <span class="anchor" id="internships"></span>
-# 💼 Internships
-
-<div class="exp-card">
-  <img src="{{ '/images/building-icon.svg' | relative_url }}" class="exp-logo" alt="Organization Placeholder">
-  <div class="exp-content">
-    <div class="exp-header">
-      <h3 class="exp-role">Research Intern / Visiting Student</h3>
-      <span class="exp-time">2025.01 - Present</span>
+    <div class="career-item">
+      <div class="career-item__heading">
+        <strong>Japan Advanced Institute of Science and Technology</strong>
+        <time>Sept. 2026</time>
+      </div>
+      <p>Ph.D. in Information Science</p>
+      <p class="career-item__meta">Supervised by Prof. Haoran Xie</p>
     </div>
-    <div class="exp-org">Organization / Lab Name</div>
-    <p class="exp-desc">Describe your internship or research role here. Summarize the type of work you do, the domain you contribute to, and the scope of your responsibilities.</p>
-  </div>
-</div> -->
 
+    <div class="career-item">
+      <div class="career-item__heading">
+        <strong>Northwest A&amp;F University</strong>
+      </div>
+      <p>M.S. in Computer Science</p>
+      <p class="career-item__meta">Supervised by Prof. Shaojun Hu</p>
+    </div>
 
-
-
-
-<span class="anchor" id="publications"></span>
-# 📝 Publications
-<p style="font-size: 0.9em; color: #666; margin-top: -10px; margin-bottom: 20px;">
-  († Equal Contribution, * Corresponding Author)
-</p>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class='paper-rank paper-rank--ccf'>CCF-B</div>
-    <img src="{{ '/images/sketchfluid.jpg' | relative_url }}" alt="Publication Placeholder">
-  </div>
-  <div class='paper-box-text'>
-    <a href="#" class="title">Controllable Fluid Motion Synthesis with Video Diffusion Model</a>
-    <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Zhengyang Wang, Shaojun Hu, Haoran Xie*</div>
-    <div class="venue"><em><strong>Computational Visual Media Journal (CVMJ)</strong>, 2026</em></div>
-    <!-- <p class="desc"><strong>TL;DR:</strong> Use this card for another representative paper or preprint you want to highlight.</p> -->
-    <div class="links">
-      <!-- <a href="#">[Paper]</a> -->
-      <!-- <a href="#">[Code]</a>
-      <a href="#">[Project Page]</a> -->
+    <div class="career-item">
+      <div class="career-item__heading">
+        <strong>Northwest A&amp;F University</strong>
+      </div>
+      <p>B.S. in Mechanical Engineering</p>
     </div>
   </div>
-</div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class='paper-rank paper-rank--ccf'>CCF-C</div>
-    <img src="{{ '/images/sketch2cinemagraph.jpg' | relative_url }}" alt="Publication Placeholder">
-  </div>
-  <div class='paper-box-text'>
-    <a href="https://www.sciencedirect.com/science/article/pii/S009784932600018X" class="title">Sketch-guided Stylized Landscape Cinemagraph Synthesis</a>
-    <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Xiaoxuan Xie, Zhengyang Wang, Xusheng Du, Shaojun Hu, Haoran Xie*</div>
-    <div class="venue"><em><strong>Computers & Graphics</strong>, 2026</em></div>
-    <!-- <p class="desc"><strong>TL;DR:</strong> Add one sentence that explains the core idea, result, or contribution of the paper.</p> -->
-    <div class="links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S009784932600018X">[Paper]</a>
-      <!-- <a href="#">[Code]</a> -->
-      <!-- <a href="#">[Project Page]</a> -->
-      <!-- <a href="#">[Dataset]</a> -->
+  <div class="career-column">
+    <h2>Experience</h2>
+
+    <div class="career-item">
+      <div class="career-item__heading">
+        <strong>Japan Advanced Institute of Science and Technology</strong>
+        <time>Oct. 2026 &ndash; Present</time>
+      </div>
+      <p>Assistant Professor, School of Knowledge Science</p>
+      <p class="career-item__meta">Computer Graphics and Embodied Intelligence</p>
     </div>
   </div>
-</div>
+</section>
 
+<section id="news" class="home-section news-section">
+  <header class="home-section__header">
+    <h2><i class="fas fa-rss" aria-hidden="true"></i>News</h2>
+  </header>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class='paper-rank paper-rank--jcr'>JCR Q1</div>
-    <img src="{{ '/images/far26.png' | relative_url }}" alt="Publication Placeholder">
-  </div>
-  <div class='paper-box-text'>
-    <a href="https://www.sciencedirect.com/science/article/pii/S2095263526000452" class="title">Controllable Generation of Building Representations: Aligning Campus Building Design Intent with Multi-stage Retrieval-augmented Diffusion Models</a>
-    <div class="authors">Zhengyang Wang†, Yuxiao Ren†, <strong>Hao Jin</strong>, Jieli Feng, Xusheng Du, Ye Zhang*, Haoran Xie*</div>
-    <div class="venue"><em><strong>Frontiers of Architectural Research</strong>, 2026</em></div>
-    <!-- <p class="desc"><strong>TL;DR:</strong> Use this card for another representative paper or preprint you want to highlight.</p> -->
-    <div class="links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S2095263526000452">[Paper]</a>
-      <!-- <a href="#">[Code]</a>
-      <a href="#">[Project Page]</a> -->
+  <div class="news-years">
+    <div class="news-year">
+      <div class="news-year__label">2026</div>
+      <div class="news-year__entries">
+        <div class="news-entry"><p>Our paper was accepted by <strong>Computational Visual Media (CVMJ)</strong>.</p><time datetime="2026-11">Nov</time></div>
+        <div class="news-entry"><p>Appointed as an Assistant Professor at JAIST.</p><time datetime="2026-10">Oct</time></div>
+        <div class="news-entry"><p>Received my Ph.D. degree and was honored as an Outstanding Graduate.</p><time datetime="2026-09">Sept</time></div>
+        <div class="news-entry"><p>Our paper was accepted by <strong>Computers &amp; Graphics</strong>.</p><time datetime="2026-04">Apr</time></div>
+        <div class="news-entry"><p>Our paper was accepted by <strong>Frontiers of Architectural Research</strong>.</p><time datetime="2026-03">Mar</time></div>
+        <div class="news-entry"><p>Our paper was accepted by the <strong>IEEE International Conference on Robotics and Automation (ICRA) 2026</strong>.</p><time datetime="2026-01">Jan</time></div>
+      </div>
+    </div>
+
+    <div class="news-year">
+      <div class="news-year__label">2025</div>
+      <div class="news-year__entries">
+        <div class="news-entry"><p>Our paper was accepted by <strong>CAADRIA 2025</strong>.</p><time datetime="2025-09">Sept</time></div>
+      </div>
+    </div>
+
+    <div class="news-year">
+      <div class="news-year__label">2024</div>
+      <div class="news-year__entries">
+        <div class="news-entry"><p>Our RA-L work was presented orally at <strong>ICRA 2024</strong>.</p><time datetime="2024-06">June</time></div>
+      </div>
     </div>
   </div>
-</div>
+</section>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class='paper-rank paper-rank--ccf'>CCF-B</div>
-    <img src="{{ '/images/srt26.png' | relative_url }}" alt="Publication Placeholder">
-  </div>
-  <div class='paper-box-text'>
-    <a href="#" class="title">Simulation-Ready Tree: High-Quality Dynamic Tree Reconstruction from a Single RGB-D Sensor</a>
-    <div class="authors"><strong>Hao Jin†</strong>, Mingxin Jiao†, Haoran Xie, Shaojun Hu*</div>
-    <div class="venue"><em><strong>International Conference on Robotics and Automation(ICRA)</strong>, 2026</em></div>
-    <p class="desc"> Accepted in Jan., 2026.</p>
-    <div class="links">
-      <a href="#">[Paper]</a>
-      <a href="https://github.com/treeAnimate/Simulation-Ready-Tree/tree/main/">[Code]</a>
-      <!-- <a href="#">[Project Page]</a>
-      <a href="#">[Demo]</a> -->
+<section id="publications" class="home-section publications-section">
+  <header class="home-section__header publications-section__header">
+    <div>
+      <h2><i class="fas fa-star" aria-hidden="true"></i>Selected Publications</h2>
+      <p>† Equal contribution &nbsp;&middot;&nbsp; * Corresponding author</p>
+    </div>
+  </header>
+
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <div class="paper-rank paper-rank--ccf">CCF-B</div>
+      <img src="{{ '/images/sketchfluid.jpg' | relative_url }}" alt="Controllable Fluid Motion Synthesis preview">
+    </div>
+    <div class="paper-box-text">
+      <span class="title">Controllable Fluid Motion Synthesis with Video Diffusion Model</span>
+      <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Zhengyang Wang, Shaojun Hu, Haoran Xie*</div>
+      <div class="venue"><em><strong>Computational Visual Media (CVMJ)</strong>, 2026</em></div>
     </div>
   </div>
-</div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src="{{ '/images/asc25.png' | relative_url }}" alt="Publication Placeholder">
-  </div>
-  <div class='paper-box-text'>
-    <a href="https://arxiv.org/abs/2503.03090" class="title">From Architectural Sketch to Conceptual Representation: Using Structure-aware Diffusion Model to Generate Renderings of School Buildings</a>
-    <div class="authors">Zhengyang Wang, <strong>Hao Jin</strong>, Xusheng Du, Yuxiao Ren, Ye Zhang, Haoran Xie*</div>
-    <div class="venue"><em><strong>The Association for Computer‑Aided Architectural Design Research in Asia (CAADRIA) 2025</strong></em></div>
-    <!-- <p class="desc"><strong>TL;DR:</strong> This slot works well for a recent submission, preprint, or work-in-progress project.</p> -->
-    <div class="links">
-      <a href="https://arxiv.org/abs/2503.03090">[Paper]</a>
-      <!-- <a href="#">[Code]</a>
-      <a href="#">[Project Page]</a> -->
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <div class="paper-rank paper-rank--ccf">CCF-C</div>
+      <img src="{{ '/images/sketch2cinemagraph.jpg' | relative_url }}" alt="Sketch-guided Stylized Landscape Cinemagraph Synthesis preview">
+    </div>
+    <div class="paper-box-text">
+      <a href="https://www.sciencedirect.com/science/article/pii/S009784932600018X" class="title">Sketch-guided Stylized Landscape Cinemagraph Synthesis</a>
+      <div class="authors"><strong>Hao Jin</strong>, Hengyuan Chang, Xiaoxuan Xie, Zhengyang Wang, Xusheng Du, Shaojun Hu, Haoran Xie*</div>
+      <div class="venue"><em><strong>Computers &amp; Graphics</strong>, 2026</em></div>
+      <div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S009784932600018X">[Paper]</a></div>
     </div>
   </div>
-</div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class='paper-rank paper-rank--jcr'>JCR Q1</div>
-    <img src="{{ '/images/oriental23.png' | relative_url }}" alt="Publication Placeholder">
-  </div>
-  <div class='paper-box-text'>
-    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238803" class="title">A Semi-Automatic Oriental Ink Painting Framework for Robotic Drawing From 3D Models</a>
-    <div class="authors"><strong>Hao Jin</strong>, Minghui Lian, Shicheng Qiu, Xuxu Han, Xizhi Zhao, Long Yang, Zhiyi Zhang, Haoran Xie, Kouichi Konno, Shaojun Hu*</div>
-    <div class="venue">
-      <em><strong> IEEE Robotics and Automation Letters</strong>, 2023</em><br>
-      <!-- <strong style="color: #b31b1b;">🏆 Optional Highlighted Award or Distinction</strong> -->
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <div class="paper-rank paper-rank--jcr">JCR Q1</div>
+      <img src="{{ '/images/far26.png' | relative_url }}" alt="Controllable Generation of Building Representations preview">
     </div>
-    <p class="desc">Oral in IEEE International Conference on Robotics and Automation(ICRA) 2024.</p>
-    <div class="links">
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238803">[Paper]</a>
-      <!-- <a href="#">[Code]</a>
-      <a href="#">[Project Page]</a>
-      <a href="#">[Demo]</a> -->
+    <div class="paper-box-text">
+      <a href="https://www.sciencedirect.com/science/article/pii/S2095263526000452" class="title">Controllable Generation of Building Representations: Aligning Campus Building Design Intent with Multi-stage Retrieval-augmented Diffusion Models</a>
+      <div class="authors">Zhengyang Wang†, Yuxiao Ren†, <strong>Hao Jin</strong>, Jieli Feng, Xusheng Du, Ye Zhang*, Haoran Xie*</div>
+      <div class="venue"><em><strong>Frontiers of Architectural Research</strong>, 2026</em></div>
+      <div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S2095263526000452">[Paper]</a></div>
     </div>
   </div>
-</div>
 
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <div class="paper-rank paper-rank--ccf">CCF-B</div>
+      <img src="{{ '/images/srt26.png' | relative_url }}" alt="Simulation-Ready Tree preview">
+    </div>
+    <div class="paper-box-text">
+      <span class="title">Simulation-Ready Tree: High-Quality Dynamic Tree Reconstruction from a Single RGB-D Sensor</span>
+      <div class="authors"><strong>Hao Jin†</strong>, Mingxin Jiao†, Haoran Xie, Shaojun Hu*</div>
+      <div class="venue"><em><strong>IEEE International Conference on Robotics and Automation (ICRA)</strong>, 2026</em></div>
+      <p class="desc">Accepted in January 2026.</p>
+      <div class="links"><a href="https://github.com/treeAnimate/Simulation-Ready-Tree/tree/main/">[Code]</a></div>
+    </div>
+  </div>
 
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <img src="{{ '/images/asc25.png' | relative_url }}" alt="Architectural Sketch to Conceptual Representation preview">
+    </div>
+    <div class="paper-box-text">
+      <a href="https://arxiv.org/abs/2503.03090" class="title">From Architectural Sketch to Conceptual Representation: Using Structure-aware Diffusion Model to Generate Renderings of School Buildings</a>
+      <div class="authors">Zhengyang Wang, <strong>Hao Jin</strong>, Xusheng Du, Yuxiao Ren, Ye Zhang, Haoran Xie*</div>
+      <div class="venue"><em><strong>CAADRIA 2025</strong></em></div>
+      <div class="links"><a href="https://arxiv.org/abs/2503.03090">[Paper]</a></div>
+    </div>
+  </div>
 
-
-
-
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <div class="paper-rank paper-rank--jcr">JCR Q1</div>
+      <img src="{{ '/images/oriental23.png' | relative_url }}" alt="Oriental Ink Painting Framework for Robotic Drawing preview">
+    </div>
+    <div class="paper-box-text">
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238803" class="title">A Semi-Automatic Oriental Ink Painting Framework for Robotic Drawing From 3D Models</a>
+      <div class="authors"><strong>Hao Jin</strong>, Minghui Lian, Shicheng Qiu, Xuxu Han, Xizhi Zhao, Long Yang, Zhiyi Zhang, Haoran Xie, Kouichi Konno, Shaojun Hu*</div>
+      <div class="venue"><em><strong>IEEE Robotics and Automation Letters</strong>, 2023</em></div>
+      <p class="desc">Oral presentation at ICRA 2024.</p>
+      <div class="links"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238803">[Paper]</a></div>
+    </div>
+  </div>
+</section>
